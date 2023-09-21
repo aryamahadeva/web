@@ -1,0 +1,114 @@
+<html>
+
+<head>
+
+<title>formatting tags</title>
+
+</head>
+
+<body>
+
+<b>This text is bold</b><br>
+
+<strong>This text is important!</strong><br>
+
+<i>This text is italic</i><br>
+
+<em>This text is emphasized</em><br>
+
+<small>This is some smaller text.</small><br>
+
+<p>Do not forget to buy <mark>milk</mark> today.</p>
+
+<p>My favorite color is <del>blue</del> red.</p>
+
+<p>My favorite color is <del>blue</del> <ins>red</ins>.</p>
+
+<p>This is <sub>subscripted</sub> text.</p>
+
+<p>This is <sup>superscripted</sup> text.</p>
+
+</body>
+
+</html>
+
+  
+!Program 1b
+
+<html>
+
+<body>
+
+<h4>Numbered list:</h4>
+
+<ol>
+
+<li>Apples</li>
+
+<li>Bananas</li>
+
+<li>Lemons</li>
+
+<li>Oranges</li>
+
+</ol>
+
+<h4>Letterslist:</h4>
+
+<ol type="A">
+
+<li>Apples</li>
+
+<li>Bananas</li>
+
+<li>Lemons</li>
+
+<li>Oranges</li>
+
+</ol>
+
+<h4>Lowercase letters list:</h4>
+
+<ol type="a">
+
+<li>Apples</li>
+
+<li>Bananas</li>
+
+<li>Lemons</li>
+
+<li>Oranges</li>
+
+</ol>
+
+<h4>Roman numbers list:</h4>
+
+<ol type="I">
+
+<li>Apples</li>
+
+<li>Bananas</li>
+
+<li>Lemons</li>
+
+<li>Oranges</li>
+
+</ol>
+
+<h4>Lowercase Roman numbers list:</h4>
+
+<ol type="i">
+
+<li>Apples</li>
+
+<li>Bananas</li>
+
+<li>Lemons</li>
+
+<li>Oranges</li>
+
+</ol>
+
+</body>
+
+</html>
